@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Trek procaliber 9.7
+          Trek procaliber 9.7 
         </p>
         <a
           className="App-link"
